@@ -1,0 +1,7 @@
+.relativeinclude on
+
+
+	.include "enemy-bullets-sprites.txt"
+
+
+.relativeinclude off

@@ -1,0 +1,11 @@
+/*
+Load correct alien bullet sprites
+
+
+Wrap at address boundary limits
+*/
+
+
+org 0x1, 0x44f8
+	jr c, 0x44ff
+
